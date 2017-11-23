@@ -47,7 +47,7 @@ name = "TTFAutohint options";
 value = "--detailed-info";
 }
 );
-date = "2017-11-23 16:31:18 +0000";
+date = "2017-11-23 17:06:45 +0000";
 designer = "Vernon Adams";
 designerURL = "http://newtypography.co.uk";
 disablesNiceNames = 1;
@@ -112561,6 +112561,10 @@ value = AddExtremes;
 {
 name = weightClass;
 value = 275;
+},
+{
+name = "Save as TrueType";
+value = 1;
 }
 );
 interpolationWeight = 42;
@@ -112578,6 +112582,10 @@ customParameters = (
 {
 name = Filter;
 value = AddExtremes;
+},
+{
+name = "Save as TrueType";
+value = 1;
 }
 );
 interpolationWeight = 61;
@@ -112595,6 +112603,10 @@ customParameters = (
 {
 name = Filter;
 value = AddExtremes;
+},
+{
+name = "Save as TrueType";
+value = 1;
 }
 );
 interpolationWeight = 81;
@@ -112610,6 +112622,10 @@ customParameters = (
 {
 name = Filter;
 value = AddExtremes;
+},
+{
+name = "Save as TrueType";
+value = 1;
 }
 );
 interpolationWeight = 101;
@@ -112627,6 +112643,10 @@ customParameters = (
 {
 name = Filter;
 value = AddExtremes;
+},
+{
+name = "Save as TrueType";
+value = 1;
 }
 );
 interpolationWeight = 125;
@@ -112644,6 +112664,10 @@ customParameters = (
 {
 name = Filter;
 value = AddExtremes;
+},
+{
+name = "Save as TrueType";
+value = 1;
 }
 );
 interpolationWeight = 151;
@@ -112661,6 +112685,10 @@ customParameters = (
 {
 name = Filter;
 value = AddExtremes;
+},
+{
+name = "Save as TrueType";
+value = 1;
 }
 );
 interpolationWeight = 178;
@@ -112814,6 +112842,10 @@ value = (
 {
 name = familyName;
 value = "Nunito Heavy";
+},
+{
+name = "Save as TrueType";
+value = 1;
 }
 );
 interpolationWeight = 208;
@@ -114996,5 +115028,5 @@ manufacturer = newtypography;
 manufacturerURL = "http://newtypography.co.uk";
 unitsPerEm = 1000;
 versionMajor = 3;
-versionMinor = 2;
+versionMinor = 3;
 }
