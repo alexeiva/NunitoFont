@@ -1,7 +1,7 @@
 {
 .appVersion = "1075";
 DisplayStrings = (
-"/de-cy/tse-cy/shcha-cy/dzhe-cy/zhedescender-cy/kadescender-cy/endescender-cy/pedescender-cy/tedescender-cy/hadescender-cy/chedescender-cy/__descender-cy/shhadescender-cy/gedescender-cy/eldescender-cy"
+"/Tse-cy/__tail-cy.case/Iishorttail-cy/Eltail-cy/Entail-cy/Emtail-cy/tse-cy/__tail-cy/iishorttail-cy/eltail-cy/entail-cy/emtail-cy"
 );
 classes = (
 {
@@ -453,6 +453,10 @@ position = "{94, 710}";
 {
 locked = 1;
 position = "{532, -131}";
+},
+{
+locked = 1;
+position = "{39, -152}";
 }
 );
 horizontalStems = (
@@ -87098,8 +87102,8 @@ paths = (
 {
 closed = 1;
 nodes = (
-"63 -145 OFFCURVE",
-"75 -110 CURVE SMOOTH",
+"61 -146 OFFCURVE",
+"74 -111 CURVE SMOOTH",
 "115 3 LINE SMOOTH",
 "124 28 OFFCURVE",
 "112 45 OFFCURVE",
@@ -87107,8 +87111,8 @@ nodes = (
 "27 45 LINE",
 "27 0 LINE",
 "59 0 LINE",
-"26 -94 LINE SMOOTH",
-"14 -129 OFFCURVE"
+"25 -95 LINE SMOOTH",
+"13 -130 OFFCURVE"
 );
 }
 );
@@ -87141,8 +87145,8 @@ paths = (
 {
 closed = 1;
 nodes = (
-"81 -165 OFFCURVE",
-"93 -130 CURVE SMOOTH",
+"80 -167 OFFCURVE",
+"92 -132 CURVE SMOOTH",
 "139 7 LINE SMOOTH",
 "147 32 OFFCURVE",
 "136 48 OFFCURVE",
@@ -87150,8 +87154,8 @@ nodes = (
 "27 48 LINE",
 "27 0 LINE",
 "82 0 LINE",
-"43 -114 LINE SMOOTH",
-"31 -149 OFFCURVE"
+"42 -116 LINE SMOOTH",
+"30 -151 OFFCURVE"
 );
 }
 );

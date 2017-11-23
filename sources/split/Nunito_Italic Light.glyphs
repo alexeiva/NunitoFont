@@ -1,7 +1,7 @@
 {
 .appVersion = "1075";
 DisplayStrings = (
-"/de-cy/tse-cy/shcha-cy/dzhe-cy/zhedescender-cy/kadescender-cy/endescender-cy/pedescender-cy/tedescender-cy/hadescender-cy/chedescender-cy/__descender-cy/shhadescender-cy/gedescender-cy/eldescender-cy"
+"/Tse-cy/__tail-cy.case/Iishorttail-cy/Eltail-cy/Entail-cy/Emtail-cy/tse-cy/__tail-cy/iishorttail-cy/eltail-cy/entail-cy/emtail-cy"
 );
 classes = (
 {
@@ -83522,9 +83522,8 @@ paths = (
 {
 closed = 1;
 nodes = (
-"58 -145 OFFCURVE",
-"72 -137 OFFCURVE",
-"79 -120 CURVE SMOOTH",
+"57 -172 OFFCURVE",
+"73 -132 CURVE SMOOTH",
 "129 3 LINE SMOOTH",
 "140 30 OFFCURVE",
 "128 48 OFFCURVE",
@@ -83532,10 +83531,8 @@ nodes = (
 "10 48 LINE",
 "6 0 LINE",
 "73 0 LINE",
-"31 -102 LINE SMOOTH",
-"25 -117 OFFCURVE",
-"30 -131 OFFCURVE",
-"44 -138 CURVE SMOOTH"
+"25 -114 LINE SMOOTH",
+"12 -147 OFFCURVE"
 );
 }
 );
@@ -83611,9 +83608,7 @@ paths = (
 {
 closed = 1;
 nodes = (
-"39 -128 LINE SMOOTH",
-"50 -128 OFFCURVE",
-"59 -123 OFFCURVE",
+"49 -147 OFFCURVE",
 "63 -112 CURVE SMOOTH",
 "107 0 LINE SMOOTH",
 "116 24 OFFCURVE",
@@ -83622,10 +83617,8 @@ nodes = (
 "11 45 LINE",
 "8 0 LINE",
 "51 0 LINE",
-"19 -84 LINE SMOOTH",
-"10 -107 OFFCURVE",
-"16 -128 OFFCURVE",
-"30 -128 CURVE SMOOTH"
+"16 -94 LINE SMOOTH",
+"3 -129 OFFCURVE"
 );
 }
 );
