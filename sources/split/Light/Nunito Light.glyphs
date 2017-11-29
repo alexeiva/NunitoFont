@@ -1,5 +1,8 @@
 {
 .appVersion = "1075";
+DisplayStrings = (
+"/EnLeftHook-cy/Be-cy/Ge-cy/Gheupturn-cy/De-cy/Zhe-cy/Ze-cy/Ii-cy/Ka-cy/El-cy/Pe-cy/U-cy/Ef-cy/Che-cy/Tse-cy/Sha-cy/Shcha-cy/Dzhe-cy/Softsign-cy/Hardsign-cy/Yeru-cy/Lje-cy/Nje-cy/Ereversed-cy/Tshe-cy/Iu-cy/Ia-cy/Dje-cy/Yat-cy/Yusbig-cy/Izhitsa-cy/Zhedescender-cy/Kadescender-cy/Kabashkir-cy/Haabkhasian-cy/Hadescender-cy/Cheabkhasian-cy/Kahook-cy/Enhook-cy/Chekhakassian-cy/Dzeabkhasian-cy/Hahook-cy/Reversedze-cy/Elhook-cy/Semisoftsign-cy/be-cy/ve-cy/ge-cy/gheupturn-cy/de-cy/zhe-cy/ze-cy/ii-cy/ka-cy/el-cy/em-cy/en-cy/pe-cy/te-cy/ef-cy/che-cy/tse-cy/sha-cy/shcha-cy/dzhe-cy/softsign-cy/hardsign-cy/yeru-cy/lje-cy/nje-cy/ereversed-cy/tshe-cy/iu-cy/ia-cy/dje-cy/yat-cy/yusbig-cy/izhitsa-cy/zhedescender-cy/kadescender-cy/kaverticalstroke-cy/kastroke-cy/kabashkir-cy/haabkhasian-cy/ustrait-cy/hadescender-cy/cheabkhasian-cy/kahook-cy/enhook-cy/chekhakassian-cy/dzeabkhasian-cy/hahook-cy/reversedze-cy/elhook-cy/enlefthook-cy/Enghe-cy/enghe-cy/Tetse-cy/tetse-cy/brevecomb-cy.case"
+);
 classes = (
 {
 automatic = 1;
