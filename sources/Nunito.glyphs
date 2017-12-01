@@ -1,8 +1,5 @@
 {
 .appVersion = "1075";
-DisplayStrings = (
-/ezh
-);
 classes = (
 {
 automatic = 1;
