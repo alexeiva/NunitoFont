@@ -43,7 +43,7 @@ name = "Use Line Breaks";
 value = 1;
 }
 );
-date = "2016-09-26 20:06:44 +0000";
+date = "2017-12-02 12:31:28 +0000";
 designer = "Vernon Adams";
 designerURL = "http://newtypography.co.uk";
 disablesNiceNames = 1;
@@ -162655,5 +162655,5 @@ manufacturer = newtypography;
 manufacturerURL = "http://newtypography.co.uk";
 unitsPerEm = 1000;
 versionMajor = 3;
-versionMinor = 1;
+versionMinor = 500;
 }
