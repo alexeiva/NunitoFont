@@ -75225,11 +75225,11 @@ name = "ii-cy";
 },
 {
 name = "brevecomb-cy";
-transform = "{1, 0, 0, 1, 7, 0}";
+transform = "{1, 0, 0, 1, 5, 0}";
 }
 );
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
-width = 566;
+width = 562;
 }
 );
 leftKerningGroup = n;
@@ -75271,11 +75271,11 @@ name = "ii-cy";
 },
 {
 name = gravecomb;
-transform = "{1, 0, 0, 1, 133, -5}";
+transform = "{1, 0, 0, 1, 131, -5}";
 }
 );
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
-width = 566;
+width = 562;
 }
 );
 leftKerningGroup = n;
@@ -88360,7 +88360,7 @@ name = "yat-cy";
 }
 );
 layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
-width = 531;
+width = 532;
 }
 );
 leftKerningGroup = h;
@@ -114535,7 +114535,7 @@ transform = "{-1, 0, 0, 1, 256, 0}";
 }
 );
 layerId = "E1B555A7-F4E1-459C-9C1A-AE952106EEF9";
-width = 254;
+width = 256;
 },
 {
 components = (
