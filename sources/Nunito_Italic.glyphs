@@ -18,6 +18,14 @@ name = licenseURL;
 value = "http://scripts.sil.org/OFL";
 },
 {
+name = vendorID;
+value = NeWT;
+},
+{
+name = trademark;
+value = "Nunito is a trademark of Vernon Adams and may be registered in certain jurisdictions.";
+},
+{
 name = fsType;
 value = (
 );
@@ -27,23 +35,28 @@ name = "Use Typo Metrics";
 value = 1;
 },
 {
-name = vendorID;
-value = NeWT;
-},
-{
-name = trademark;
-value = "Nunito is a trademark of Vernon Adams and may be registered in certain jurisdictions.";
-},
-{
 name = "Disable Last Change";
 value = 1;
 },
 {
 name = "Use Line Breaks";
 value = 1;
+},
+{
+name = "Family Alignment Zones";
+value = (
+"{705, 20}",
+"{487, 20}",
+"{0, -20}",
+"{-180, -20}"
+);
+},
+{
+name = "TTFAutohint options";
+value = "--detailed-info";
 }
 );
-date = "2018-02-28 07:38:14 +0000";
+date = "2018-02-28 16:32:33 +0000";
 designer = "Vernon Adams";
 designerURL = "http://newtypography.co.uk";
 disablesNiceNames = 1;
@@ -155257,5 +155270,5 @@ manufacturer = newtypography;
 manufacturerURL = "http://newtypography.co.uk";
 unitsPerEm = 1000;
 versionMajor = 3;
-versionMinor = 502;
+versionMinor = 503;
 }
